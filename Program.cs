@@ -15,8 +15,6 @@ class Program
     static void firstTask()
     {
         var array = createListWithRandomDigit(20);
-        var arrayForDigitBigerZero = new List<Int32>();
-        var arrayForDigitSmallerZero = new List<Int32>();
         printArray(array.ToArray());
 
         var plus = array.First(n => n > -1);
