@@ -1,0 +1,15 @@
+C:\Users\Valentine\Desktop\C#\laba-first\bin\Debug\net6.0\laba-first.exe
+C:\Users\Valentine\Desktop\C#\laba-first\bin\Debug\net6.0\laba-first.deps.json
+C:\Users\Valentine\Desktop\C#\laba-first\bin\Debug\net6.0\laba-first.runtimeconfig.json
+C:\Users\Valentine\Desktop\C#\laba-first\bin\Debug\net6.0\laba-first.dll
+C:\Users\Valentine\Desktop\C#\laba-first\bin\Debug\net6.0\laba-first.pdb
+C:\Users\Valentine\Desktop\C#\laba-first\obj\Debug\net6.0\laba-first.csproj.AssemblyReference.cache
+C:\Users\Valentine\Desktop\C#\laba-first\obj\Debug\net6.0\laba-first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentine\Desktop\C#\laba-first\obj\Debug\net6.0\laba-first.AssemblyInfoInputs.cache
+C:\Users\Valentine\Desktop\C#\laba-first\obj\Debug\net6.0\laba-first.AssemblyInfo.cs
+C:\Users\Valentine\Desktop\C#\laba-first\obj\Debug\net6.0\laba-first.csproj.CoreCompileInputs.cache
+C:\Users\Valentine\Desktop\C#\laba-first\obj\Debug\net6.0\laba-first.dll
+C:\Users\Valentine\Desktop\C#\laba-first\obj\Debug\net6.0\refint\laba-first.dll
+C:\Users\Valentine\Desktop\C#\laba-first\obj\Debug\net6.0\laba-first.pdb
+C:\Users\Valentine\Desktop\C#\laba-first\obj\Debug\net6.0\laba-first.genruntimeconfig.cache
+C:\Users\Valentine\Desktop\C#\laba-first\obj\Debug\net6.0\ref\laba-first.dll
