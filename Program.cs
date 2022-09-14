@@ -16,9 +16,11 @@ class Program
         fifthTask();
         Console.WriteLine("---------------------------------\n Task 6");
         sixthTask();
-        Console.WriteLine((int) 'a');
-        Console.WriteLine((int) 'z');
-        printArray(createListOfString(5).ToArray());
+        Console.WriteLine("---------------------------------\n Task 7");
+        seventhTask();
+        Console.WriteLine("---------------------------------\n Task 7");
+        eightTask();
+
     }
 
     static void firstTask()
@@ -131,7 +133,22 @@ class Program
 
     static void seventhTask()
     {
+        var array = createListOfString(10);
+        printArray(array.ToArray());
+        Console.WriteLine();
+        var l = 5;
+        List<string> newArray = array.Where(n => n.Length == l).ToList();
+        newArray.Sort();
+        Console.WriteLine(newArray.Last());
+    }
 
+    static void eightTask(){
+        var array = createListOfString(5);
+        printArray(array.ToArray());
+        Console.WriteLine();
+        int a = 0;
+        var count = array.Aggregate(0, (n, o) => o.Length + n );
+        Console.WriteLine(count);
     }
 
     static void printArray(Array array)
@@ -160,8 +177,9 @@ class Program
         for (int i = 0; i < lengthOfList; i++)
         {
             string s = "";
-            for (int j = 0; j < random.Next(3, 10); j++){
-                s+= (char) random.Next(97, 122);
+            for (int j = 0; j < random.Next(3, 10); j++)
+            {
+                s += (char)random.Next(97, 122);
             }
             array.Add(s);
         }
